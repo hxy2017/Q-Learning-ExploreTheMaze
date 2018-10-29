@@ -1,2 +1,2 @@
 # Q-Learning-ExploreTheMaze
-使用Q-Learning算法实现走迷宫
+使用强化学习算法Q-Learning实现走迷宫
